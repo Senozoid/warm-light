@@ -1,0 +1,67 @@
+{
+  "name": "Warm Light",
+  "dark": false,
+  "author": "Senozoid",
+  "editorScheme": "/warm_light.xml",
+  "colors": {
+    "white": "#ffffff",
+    "yellowBrightest": "#FFFF00",
+    "paper": "#fff0a0",
+    "available": "#e4d684",
+    "brown": "#967850",
+    "midnightWarm": "#502010",
+    "black": "#000000",
+    "midnightCool": "#202040",
+    "blueDull": "#4040a0",
+    "blueLight": "#a0a0ff"
+  },
+  "ui": {
+    "*": {
+      "selectedBackground": "paper",
+      "selectedForeground": "black",
+      "background": "available",
+      "foreground": "midnightWarm",
+      "selectionBackground": "blueDull",
+      "selectionForeground": "white",
+      "hoverBackground": "white",
+      "hoverForeground": "midnightCool",
+      "disabledText": "brown",
+      "underlineColor": "brown",
+      "errorFocusColor": "blueDull"
+    },
+    "TextArea.background": "paper",
+    "TextField.background": "paper",
+    "TextPane.background": "paper",
+    "ComboBox": {
+      "nonEditableBackground": "available",
+      "ArrowButton": {
+        "background": "paper",
+        "nonEditableBackground": "paper"
+      }
+    },
+    "Editor": {
+      "background": "brown",
+      "foreground": "midnightWarm",
+      "shortcutForeground": "available"
+    },
+    "Button": {
+      "default": {
+        "startBackground": "yellowBrightest",
+        "endBackground": "blueLight",
+        "foreground": "black",
+        "startBorderColor": "midnightCool",
+        "endBorderColor": "midnightWarm"
+      }
+    },
+    "Borders": {
+      "color": "blueDull",
+      "ContrastBorderColor": "midnightCool"
+    },
+    "ScrollPane.background": "available",
+    "ScrollPane.foreground": "midnightCool",
+    "TextArea.foreground": "midnightCool",
+    "TextField.foreground": "midnightCool",
+    "TextField.inactiveForeground": "midnightCool",
+    "Viewport.foreground": "midnightCool"
+  }
+}
