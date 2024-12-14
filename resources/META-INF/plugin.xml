@@ -16,7 +16,7 @@
     <description>A simple light theme with distinct, bright colours. Made on a sunny day, for you and me.</description>
     <!-- Summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
-    <change-notes>Slightly more vibrant.</change-notes>
+    <change-notes>More vibrant colours for contrast, fit for viewing in bright environments. Static final, static non-final and instance fields are more distinct.</change-notes>
 
     <!-- Product and plugin compatibility requirements.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
