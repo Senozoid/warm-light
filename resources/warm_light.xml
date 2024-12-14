@@ -123,7 +123,7 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="BACKGROUND" value="fff0a0" />
+        <option name="BACKGROUND" value="ffffa0" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
@@ -134,7 +134,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="202040" />
-        <option name="BACKGROUND" value="fff0a0" />
+        <option name="BACKGROUND" value="ffffa0" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -147,7 +147,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff" />
-        <option name="BACKGROUND" value="ffffd0" />
+        <option name="BACKGROUND" value="A0FFFF" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
       </value>
