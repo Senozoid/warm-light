@@ -5,9 +5,15 @@
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="ffffff" />
-    <option name="GUTTER_BACKGROUND" value="ffe8b7" />
+    <option name="GUTTER_BACKGROUND" value="ffa068" />
     <option name="GUTTER_FOREGROUND" value="800e34" />
+    <option name="INDENT_GUIDE" value="d0c0b0" />
+    <option name="LINE_NUMBERS_COLOR" value="ffffa0" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="e06010" />
+    <option name="RIGHT_MARGIN_COLOR" value="d09070" />
+    <option name="SELECTED_INDENT_GUIDE" value="e06010" />
     <option name="SELECTION_BACKGROUND" value="4040a0" />
+    <option name="VISUAL_INDENT_GUIDE" value="e06010" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">

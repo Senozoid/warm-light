@@ -27,7 +27,21 @@
       "hoverForeground": "midnightCool",
       "disabledText": "brown",
       "underlineColor": "brown",
-      "errorFocusColor": "blueDull"
+      "errorFocusColor": "blueDull",
+      "windowBorder": "blueDull"
+    },
+    "Banner": {
+      "errorBorderColor": "blueDull",
+      "infoBorderColor": "blueDull",
+      "successBorderColor": "blueDull",
+      "warningBorderColor": "blueDull"
+    },
+    "Popup.paintBorder": true,
+    "Notification.borderColor": "blueDull",
+    "WelcomeScreen.borderColor": "blueDull",
+    "Borders": {
+      "color": "blueDull",
+      "ContrastBorderColor": "blueDull"
     },
     "TextArea.background": "paper",
     "TextField.background": "paper",
@@ -52,10 +66,6 @@
         "startBorderColor": "midnightCool",
         "endBorderColor": "midnightWarm"
       }
-    },
-    "Borders": {
-      "color": "blueDull",
-      "ContrastBorderColor": "midnightCool"
     },
     "ScrollPane.background": "available",
     "ScrollPane.foreground": "midnightCool",
